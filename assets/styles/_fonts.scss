@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "Arial";
+  src: url("~/assets/fonts/ArialRegular/ArialRegular.eot");
+  src: url("~/assets/fonts/ArialRegular/ArialRegular.eot?#iefix")
+      format("embedded-opentype"),
+    url("~/assets/fonts/ArialRegular/ArialRegular.woff") format("woff"),
+    url("~/assets/fonts/ArialRegular/ArialRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: url("~/assets/fonts/ArialBold/ArialBold.eot");
+  src: url("~/assets/fonts/ArialBold/ArialBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("~/assets/fonts/ArialBold/ArialBold.woff") format("woff"),
+    url("~/assets/fonts/ArialBold/ArialBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: url("~/assets/fonts/ArialItalic/ArialItalic.eot");
+  src: url("~/assets/fonts/ArialItalic/ArialItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("~/assets/fonts/ArialItalic/ArialItalic.woff") format("woff"),
+    url("~/assets/fonts/ArialItalic/ArialItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: url("~/assets/fonts/ArialBlack/ArialBlack.eot");
+  src: url("~/assets/fonts/ArialBlack/ArialBlack.eot?#iefix")
+      format("embedded-opentype"),
+    url("~/assets/fonts/ArialBlack/ArialBlack.woff") format("woff"),
+    url("~/assets/fonts/ArialBlack/ArialBlack.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: url("~/assets/fonts/ArialBoldItalic/ArialBoldItalic.eot");
+  src: url("~/assets/fonts/ArialBoldItalic/ArialBoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("~/assets/fonts/ArialBoldItalic/ArialBoldItalic.woff") format("woff"),
+    url("~/assets/fonts/ArialBoldItalic/ArialBoldItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: bold;
+}
